@@ -1,0 +1,23 @@
+.css-style {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:  # F00;
+}
+a:link {
+	color:#F00;
+}
+a:link {
+	color:#F00;
+	text-decoration:none;
+}
+a:visited{
+	color:#F00;
+	text-decoration:none;
+}
+a:hover{
+	color:# F60;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-decoration: underline;
+}
